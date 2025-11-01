@@ -48,4 +48,4 @@
 
 | (1) Tampermonkey 메뉴에서 탭 등록 | (2) 두 탭의 스크롤 동기화 결과 |
 | :---: | :---: |
-| ![Tampermonkey 메뉴에서 탭 등록](images/tab-scroll-sync-03.png) | ![두 탭의 스크롤 동기화 결과](images/tab-scroll-sync-01.jpg) |
+| ![Tampermonkey 메뉴에서 탭 등록](images/tab-scroll-sync-03.png) | ![두 탭의 스크롤 동기화 결과](images/tab-scroll-sync-01.png) |
